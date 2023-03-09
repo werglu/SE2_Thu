@@ -1,13 +1,15 @@
+
 1. Bodak Jakub
 2. Cieslak Piotr
 3. Gluszczak Weronika
 4. Kołodziejczyk Filip
 5. Kopeć Adam
 6. Kwiatkowski Adam
-7. Markiewicz Szymon
-8. Misiura Blazej
-9. Novak Aleksandra
-10. Sieczka Piotr
-11. Zalewski Jacek
-12. Łągiewka Zofia
+7. Łągiewka Zofia
+8. Markiewicz Szymon
+9. Misiura Blazej
+10. Novak Aleksandra
+11. Sieczka Piotr
+12. Zalewski Jacek
 13. Ślusarz Szymon
+14. Zalewski Jacek
